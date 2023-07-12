@@ -22,7 +22,6 @@ fly
 and outputs the updated dictionary to console, like
 
 ```
-Updated dictionary:
 bee: 1
 can: 1
 engineer: 2
